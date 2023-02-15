@@ -12,7 +12,7 @@
 - 매주 _요일 21시에 모두가 돌아가며 한 사람이 진행자가 되서 해당 주차의 스터디를 진행하는 형식으로 운영됩니다.
 - 진행자의 경우, 해당 주차의 발표 및 전체적인 진행을 맡습니다. 
 
-# 참고 정보
+### 참고 정보
 - **[Node.js 교과서(개정 3판) 인프런 영상강의 (전체_유료)](https://www.inflearn.com/course/%EB%85%B8%EB%93%9C-js-%EA%B5%90%EA%B3%BC%EC%84%9C#curriculum)**
 - **[Node.js 교과서(개정 3판) 유튜브 영상강의 (8장까지_무료)](https://www.youtube.com/playlist?list=PLcqDmjxt30RsGIPBBKX7xl05VuqJeCTFn)**
 
