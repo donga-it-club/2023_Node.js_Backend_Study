@@ -4,7 +4,7 @@
 ## 스터디 멤버
 - 최승현(리더) ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))
 - 도기범 ([Github](https://github.com/GBDO) / [Blog](https://ford.tistory.com/))
-- 정민석 ([Github](https://github.com/200000001) / [Blog](https://minseok-study.tistory.com))
+- 정민석 ([Github](https://github.com/Minseok-2001) / [Blog](https://minseok-study.tistory.com))
 
 ## 스터디 방식
 
@@ -42,7 +42,7 @@
 
 - [학습내용] : 1장.노드 시작하기 & 2장.알아둬야 할 자바스크립트
 
-   - [진행자] : [정민석](https://github.com/200000001)
+   - [진행자] : [정민석](https://github.com/Minseok-2001)
       - [발표자료] : [발표자료 Notion](https://cubic-skull-f52.notion.site/node-39ed0b5ef9524cbb9ce01649bc5c15dc)
       - [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1t5OC4KUJXIMCQX4K-YGRqhl_mKBu1DPe/view?usp=sharing)
 
