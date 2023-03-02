@@ -3,7 +3,6 @@
 
 ## 스터디 멤버
 - 최승현(리더) ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))
-- 도기범 ([Github](https://github.com/GBDO) / [Blog](https://ford.tistory.com/))
 - 정민석 ([Github](https://github.com/Minseok-2001) / [Blog](https://minseok-study.tistory.com))
 
 ## 스터디 방식
@@ -50,6 +49,6 @@
 
 - [학습내용] : 3장. 노드 시작하기 & 4장. http 모듈로 서버 만들기
 
-   - [진행자] : [도기범](https://github.com/GBDO)
+   - [진행자] : 
       - [발표자료] : 
       - [발표영상] : 
